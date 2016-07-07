@@ -1,0 +1,7 @@
+.message-board{
+	border: 1px solid blue;
+   border-radius: 5px;
+   padding: 0px 15px;
+	margin-bottom:25px;
+	background: #ff6;
+}

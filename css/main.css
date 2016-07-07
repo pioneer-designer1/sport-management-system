@@ -1,0 +1,22 @@
+/**
+*
+* 	main.css for sports management system	
+*	Author: 	Sachin Mohite
+*	Company: Pioneer Solutions
+*
+*/
+
+#clearfix{
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 23px;
+   clear:both; 
+}
+
+.pull-mid{
+	margin:0 auto;
+	}
+.margin-top-15{
+		margin-top:15%;
+	}
